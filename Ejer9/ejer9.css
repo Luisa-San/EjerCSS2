@@ -1,0 +1,22 @@
+div {
+    margin: 20px;
+    padding: 15px;
+    background-color: lightgrey;
+    width: 300px;
+    border-color: #ddd;
+}
+p {
+    
+    font-size: 14px;
+}
+h2 {
+    font-size: 22px;
+}
+.precio {
+    text-align: right;
+    font-weight: bold;
+    color: #ff5733;
+}
+img {
+    width: 100%;
+}
